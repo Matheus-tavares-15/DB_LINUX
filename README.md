@@ -96,7 +96,7 @@ const conexao = mysql.createConnection({
 ## Modelo Lógico
 
 
-<img width="479" alt="Captura de tela 2024-11-26 005141" src="https://github.com/user-attachments/assets/d59d6bb4-dcef-4426-ab14-3a63576b14c7">
+<img width="724" alt="Modelo_logico_v1" src="https://github.com/user-attachments/assets/3b45ecb5-fae4-4c23-b38c-b2993e4ff5b2">
 
 
 ## Observação
