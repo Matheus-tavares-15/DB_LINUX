@@ -88,7 +88,9 @@ const conexao = mysql.createConnection({
 ![image](https://github.com/user-attachments/assets/c5918f8a-4fa9-438a-994f-feaec53dc732)
 
 ## Modelo conceitual
-![Modelo_conceitual drawio](https://github.com/user-attachments/assets/92daf2ea-d579-43fb-a077-4ac2c1ba4a83)
+
+<img width="680" alt="Modelo_conceitual" src="https://github.com/user-attachments/assets/af5d4c86-27ad-4cf3-aa2b-70409c79e96f">
+
 
 ## Modelo Lógico
 
